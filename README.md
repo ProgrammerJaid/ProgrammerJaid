@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any DEVELOPMENT PROJECTS.
 - 📫 How to reach me skzaid9641@gmail.com
 
-<!---
-ProgrammerJaid/ProgrammerJaid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishan-aggarwal&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishan-aggarwal&show_icons=true&theme=dark" width="350"></a>
+</p>
