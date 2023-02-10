@@ -5,7 +5,7 @@
 </p>
 
 <h2>About Me</h2>
-<p> I am a Java Developer:coffee:, I have sound knowledge in **core java** , I have done many exciting stuffs in core java like creating generic data structures Binary Trees,BST,working with Reflection API etc., please check my core java repository for more details.<br/>
+<p> I am a Java Developer:hotsprings:, I have sound knowledge in core java, I have done many exciting stuffs in core java like creating generic data structures Binary Trees,BST,working with Reflection API etc., please check my core java repository for more details.<br/>
 
 I also have strong command on **MySQL**, during my internship period I was introduced to advance MySQL topics like **procedures**,functions,triggers,**window function**,etc.
 Have also been working with **Hibernate**,**Spring Boot** and **Spring Security(Role based Access and JWT tokens)** for the past year and have developed many **RESTfull API's** based on the above technologies.<br/>
@@ -15,6 +15,13 @@ Have also been working with **Hibernate**,**Spring Boot** and **Spring Security(
 In my free time I like to workout or watch horror movies:ghost:.<br/>
   <br/>
 </p>
-  <h2>:hammer_and_wrench:Tech Stack</h2>
-  <li>:language:hello</li>
-  <li>wehbh</li>
+  <h2>:toolbox:Tech Stack</h2>
+  <li>:computer: Core Java, Scala.</li>
+  <li>:hammer: Hibernate,Spring Boot,Spring Security.</li>
+  <li>:floppy_disk: MySQL.</li>
+  
+  <br/>
+  
+  
+  ![Jaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProgrammerJaid&show_icons=true&theme=city_lights)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerJaid&theme=city_lights)
