@@ -1,25 +1,142 @@
-<h1 align="center">Hi👋!.I am Sk Jaid 👨‍💻.</h1>
+# Hi 👋, I'm Sk Jaid 👨‍💻
+
 <p align="center">
-<a href="https://www.linkedin.com/in/sk-jaid-800230193/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/JJ_programmer/"><img src="https://camo.githubusercontent.com/9009e098c2603c3e657e7f1754da9a88ba7ca17cbbc95abbac4257b26ec6ff8a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c656574436f64652d4646413131363f7374796c653d666f722d7468652d6261646765266c6f676f3d4c656574436f6465266c6f676f436f6c6f723d626c61636b"></a>
+<a href="https://www.linkedin.com/in/sk-jaid-800230193/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/JJ_programmer/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 </p>
- 
-<h2>About Me</h2>
-<p> I am a Java Developer♨️, I have sound knowledge in core java, I have done many exciting stuffs in core java like creating generic data structures Binary Trees,BST,working with Reflection API etc., please check my core java repository for more details.<br/>
 
-I also have strong command on **Postgres**, during my work. I am well aware of advance topics like **procedures**,functions,triggers,**window function**,etc.
-Have also been working with **Hibernate**,**Spring Boot** and **Spring Security(Role based Access and JWT tokens)** for the past year and have developed many **RESTfull API's** based on the above technologies.<br/>
+---
 
-:point_right: Currently I am **AWS Cerified Developer Associate**:cloud: and **Spring Batch**.I regularly practice DSA and I have strong interest towards solving real life complex problems:zany_face:.<br/>
-  <br/>
-</p>
-  <h2>:toolbox:Tech Stack</h2>
-  <li>:computer: Core Java, Scala.</li>
-  <li>:hammer: Hibernate,Spring Boot,Spring Security.</li>
-  <li>:floppy_disk: MySQL.</li>
-  
-  <br/>
-  
-  
-  ![Jaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProgrammerJaid&show_icons=true&theme=city_lights)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerJaid&theme=city_lights)
+## 🚀 About Me
+
+I am a Software Engineer with experience in designing and building scalable backend systems, cloud-native applications, and distributed architectures.
+
+My primary expertise lies in **Java**, **Spring Boot**, and **AWS**, where I build secure, highly available microservices and REST APIs. I enjoy solving complex engineering problems involving distributed systems, messaging platforms, Kubernetes orchestration, and cloud infrastructure.
+
+### 🔹 Backend Development
+
+* Core Java, Collections, Multithreading, Concurrency
+* Data Structures & Algorithms
+* Reflection API, JVM Internals
+* Spring Boot, Spring Security
+* Spring Cloud Gateway
+* Spring Batch
+* Hibernate / JPA
+* RESTful API Design
+
+### 🔹 Cloud & DevOps
+
+* AWS Certified Developer Associate
+* Amazon EKS
+* EC2, VPC, ALB, ASG
+* S3, RDS, IAM
+* CloudWatch, SNS
+* Terraform
+* Docker
+* Kubernetes
+* Helm
+
+### 🔹 Messaging & Distributed Systems
+
+* RabbitMQ
+* Apache Kafka
+* Event-Driven Architecture
+* Microservices Architecture
+
+### 🔹 Databases
+
+* PostgreSQL
+* MySQL
+
+Experienced with:
+
+* Stored Procedures
+* Functions
+* Triggers
+* Window Functions
+* Query Optimization
+
+### 🔹 Observability & Monitoring
+
+* Prometheus
+* Grafana
+* ELK Stack (Elasticsearch, Logstash, Kibana)
+* Zipkin
+* Micrometer
+
+### 🔹 Currently Exploring
+
+* Kubernetes Administration (CKA Path)
+* Advanced AWS Architectures
+* Platform Engineering
+* Distributed Systems Design
+* Data Engineering Concepts
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+* Java
+* Scala
+* SQL
+
+### Backend
+
+* Spring Boot
+* Spring Security
+* Spring Batch
+* Hibernate / JPA
+* Spring Cloud
+
+### Cloud & DevOps
+
+* AWS
+* Kubernetes
+* Docker
+* Helm
+* Terraform
+* Jenkins
+
+### Messaging
+
+* RabbitMQ
+* Apache Kafka
+
+### Databases
+
+* PostgreSQL
+* MySQL
+
+### Monitoring
+
+* Prometheus
+* Grafana
+* Elasticsearch
+* Kibana
+* Zipkin
+
+---
+
+## 📈 GitHub Statistics
+
+![Jaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProgrammerJaid\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerJaid\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🎯 Interests
+
+* Cloud Native Technologies
+* Kubernetes & Container Orchestration
+* Distributed Systems
+* Backend Engineering
+* System Design
+* Performance Optimization
+* Open Source Contributions
