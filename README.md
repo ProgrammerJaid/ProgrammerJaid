@@ -1,4 +1,8 @@
-# Hi 👋, I'm Sk Jaid 👨‍💻
+<h1 align="center">Hi 👋, I'm Sk Jaid</h1>
+
+<p align="center">
+Backend Engineer | AWS Certified Developer Associate ☁️ | Cloud & Kubernetes Enthusiast 🚀
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sk-jaid-800230193/">
@@ -11,132 +15,37 @@
 
 ---
 
-## 🚀 About Me
+### 👨‍💻 About Me
 
-I am a Software Engineer with experience in designing and building scalable backend systems, cloud-native applications, and distributed architectures.
-
-My primary expertise lies in **Java**, **Spring Boot**, and **AWS**, where I build secure, highly available microservices and REST APIs. I enjoy solving complex engineering problems involving distributed systems, messaging platforms, Kubernetes orchestration, and cloud infrastructure.
-
-### 🔹 Backend Development
-
-* Core Java, Collections, Multithreading, Concurrency
-* Data Structures & Algorithms
-* Reflection API, JVM Internals
-* Spring Boot, Spring Security
-* Spring Cloud Gateway
-* Spring Batch
-* Hibernate / JPA
-* RESTful API Design
-
-### 🔹 Cloud & DevOps
-
-* AWS Certified Developer Associate
-* Amazon EKS
-* EC2, VPC, ALB, ASG
-* S3, RDS, IAM
-* CloudWatch, SNS
-* Terraform
-* Docker
-* Kubernetes
-* Helm
-
-### 🔹 Messaging & Distributed Systems
-
-* RabbitMQ
-* Apache Kafka
-* Event-Driven Architecture
-* Microservices Architecture
-
-### 🔹 Databases
-
-* PostgreSQL
-* MySQL
-
-Experienced with:
-
-* Stored Procedures
-* Functions
-* Triggers
-* Window Functions
-* Query Optimization
-
-### 🔹 Observability & Monitoring
-
-* Prometheus
-* Grafana
-* ELK Stack (Elasticsearch, Logstash, Kibana)
-* Zipkin
-* Micrometer
-
-### 🔹 Currently Exploring
-
-* Kubernetes Administration (CKA Path)
-* Advanced AWS Architectures
-* Platform Engineering
-* Distributed Systems Design
-* Data Engineering Concepts
+* Backend Engineer specializing in **Java**, **Spring Boot**, and **AWS**
+* Experienced in building **Microservices**, **REST APIs**, and **Event-Driven Systems**
+* Hands-on with **Kubernetes**, **Docker**, **Terraform**, and **CI/CD**
+* Strong knowledge of **PostgreSQL**, **RabbitMQ**, and **Apache Kafka**
+* Passionate about **Distributed Systems**, **Cloud Native Architecture**, and **System Design**
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-### Languages
-
-* Java
-* Scala
-* SQL
-
-### Backend
-
-* Spring Boot
-* Spring Security
-* Spring Batch
-* Hibernate / JPA
-* Spring Cloud
-
-### Cloud & DevOps
-
-* AWS
-* Kubernetes
-* Docker
-* Helm
-* Terraform
-* Jenkins
-
-### Messaging
-
-* RabbitMQ
-* Apache Kafka
-
-### Databases
-
-* PostgreSQL
-* MySQL
-
-### Monitoring
-
-* Prometheus
-* Grafana
-* Elasticsearch
-* Kibana
-* Zipkin
+| Category   | Technologies                                          |
+| ---------- | ----------------------------------------------------- |
+| Languages  | Java, Scala, SQL                                      |
+| Backend    | Spring Boot, Spring Security, Hibernate, Spring Batch |
+| Cloud      | AWS (EKS, EC2, S3, IAM, RDS, ALB)                     |
+| DevOps     | Docker, Kubernetes, Helm, Terraform, Jenkins          |
+| Messaging  | RabbitMQ, Apache Kafka                                |
+| Database   | PostgreSQL, MySQL                                     |
+| Monitoring | Prometheus, Grafana, ELK, Zipkin                      |
 
 ---
 
-## 📈 GitHub Statistics
-
-![Jaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProgrammerJaid\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerJaid\&layout=compact\&theme=tokyonight)
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ProgrammerJaid&show_icons=true&theme=tokyonight" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerJaid&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🎯 Interests
+### 🎯 Interests
 
-* Cloud Native Technologies
-* Kubernetes & Container Orchestration
-* Distributed Systems
-* Backend Engineering
-* System Design
-* Performance Optimization
-* Open Source Contributions
+Kubernetes • AWS Architecture • Distributed Systems • Backend Engineering • Platform Engineering • Open Source
